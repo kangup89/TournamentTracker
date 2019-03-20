@@ -1,0 +1,9 @@
+D:\workspace\Visual Studio\TornamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+D:\workspace\Visual Studio\TornamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+D:\workspace\Visual Studio\TornamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\TornamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\TornamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+D:\workspace\Visual Studio\TornamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
+D:\workspace\Visual Studio\TornamentTracker\TrackerLibrary\bin\Debug\Dapper.dll
+D:\workspace\Visual Studio\TornamentTracker\TrackerLibrary\bin\Debug\Dapper.xml
+D:\workspace\Visual Studio\TornamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
